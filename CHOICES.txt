@@ -2,6 +2,6 @@ CHOICES
 
 First Choice: 1a
 Second Choice: 2a
-Third Choice: 3b
-Fourth Choice: 4d
-Fifth Choice: 5c
+Third Choice: 3b / 3a
+Fourth Choice: 4d /4b
+Fifth Choice: 5c /5a
